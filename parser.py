@@ -36,5 +36,9 @@ def parse_csv():
 		# Build the JSON document
 		
 		# Store document in Mongo. For now we can just print it out.
+		
+		# For now, let's just print out the CSV line by line.
+		for row in reader:
+			print row
 			
 			
