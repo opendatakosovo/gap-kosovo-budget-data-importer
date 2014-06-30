@@ -32,5 +32,9 @@ def parse_csv():
 		next(reader, None)
 		
 		# Bah, need to figure out how to do this recursively.
+		
+		# Build the JSON document
+		
+		# Store document in Mongo. For now we can just print it out.
 			
 			
