@@ -1,0 +1,62 @@
+{
+	customs:{
+		banderols: 45900000.00,
+		compensationOfFinesOfInsuranceCompanies: 0.00,
+		costomsTaxOnImportCigarettesEtc: 0.00,
+		customsReturns: -486000.00,
+		customsTaxOnImport: 117721000.00,
+		exciseReturns: -184000.00,
+		externalCustomsControl: 263000.00,
+		externalExiseOnTheBorder: 291313000.00,
+		fastCustoms: 34000.00,
+		goodsSale: 401000.00,
+		internalExcise: 11889000.00,
+		otherCustomTaxes: 3416000.00,
+		returnOfVariousCustomsTaxes: -341000.00,
+		sentenceRevenvues: 438000.00,
+		valueAddedTaxVATOnTheBorder: 418927000.00,
+		vatReturn: -1063000.00
+	},
+	dedicatedRevenues:{
+		revenuesDecicatedToKPA: 16248000.00
+	},
+	grantsAndAssistance:{
+		grantsForBudgetarySupport: 37417000.00,
+		setDonorGrants: 11322000.00
+	},
+	loaning:{
+		admissionOfTheIssueOfSecurities: 73313000.00,
+		loaningFromIFN: 96635000.00,
+		transferToFSDK: -2958000.00
+	},
+	otherAdmission:{
+		bankInterest: 0
+		depositionFund:{
+			akpTheRentFromInventory: 2100.00,
+			depositisFromSeizures: 271190.00,
+			depositsOfDAGJ: 258120.00,
+			depositsOfPrisoners: 68390.00,
+			depositsRegulatoryCommission: 0.00,
+			depositsProcurementReviewBody: 95610.00,
+			gamblingDeposits: 144690.00,
+			kosovoPropertyAgency: 76260.00,
+			salariesTrustMinorities: 398190.00,
+			specialChamberDeposits: 7750.00
+		},
+		dividends:{
+			ptkDividends: 45000000.00
+		},
+		finesAndTarrifs:{
+			acreditationTariff: 15000.00,
+			administrativeTaxRevnues:{
+				vehicleRegistrationTaxes: 10227000
+				roadTaxes: 10227000.00,
+				taxesOnTravelDocuments: 7287000
+				idTaxes: 932000.00,
+				drivingLicenceTaxes: 2354000.00,
+				municipalTaxesForConstructionOfBuildings: 2000.00,
+				verificationOfVariousDocuments: 928000.00
+			}
+		}
+	}
+}

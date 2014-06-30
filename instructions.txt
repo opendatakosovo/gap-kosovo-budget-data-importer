@@ -1,0 +1,5 @@
+Write an algorithm that takes sample-input.csv and returns sample-output.json.
+
+The algorithm should be dynamic in a way that if more "Kolona" columns are added then the algorithm will still work.
+
+So annoying but an excellent way to start playing with Python.
