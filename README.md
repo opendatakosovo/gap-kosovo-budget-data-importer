@@ -13,5 +13,5 @@ Run
 ===
 1. Start mongo server.
 2. Load the virtual environment: source venv/bin/activate
-3. Run the app: python parser.py
+3. Run the app: python parser.py [PATH_OF_CSV_FILE_TO_IMPORT_DATA_FROM]
 
