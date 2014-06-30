@@ -31,24 +31,6 @@ def parse_csv():
 		# Skip the header
 		next(reader, None)
 		
-		previous_column1 = ''
-		previous_column2 = ''
-		previous_column3 = ''
-		previous_column4 = ''
-		
-		# Iterate through the rows, retrieve desired values.
-		for row in reader:
-			
-			institute = row[4] # Column name: Instituti
-			group_name = row[5] # Column name: GROUPNAME
-			
-			column1 = row[7] # Column name: Kolona 1
-			column2 = row[8] # Kolona 2
-			column3 = row[9] # Kolona 3
-			column4 = row[10] # Kolona 4
-			
-			amount = row[11] # Shuma
-			
-			# Bah, need to figure out how to do this recursively.
+		# Bah, need to figure out how to do this recursively.
 			
 			
