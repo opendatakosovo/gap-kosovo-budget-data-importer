@@ -25,7 +25,7 @@ def parse_csv():
 	Creates Mongo document for each observation entry.
 	Stores generated JSON documents.
 	'''
-	with open(csv_filename, 'rb') as csvfile:
+	with open(filepath, 'rb') as csvfile:
 		reader = csv.reader(csvfile)
 		
 		# Skip the header
@@ -35,10 +35,11 @@ def parse_csv():
 		
 		# Build the JSON document
 		
-		# Store document in Mongo. For now we can just print it out.
+		# Store document in Mongo. For now we can just print out the document.
+		# Don't worry about Mongo at all.
 		
-		# For now, let's just print out the CSV line by line.
+		# For now, let's just print out the content of the CSV file line by line.
 		for row in reader:
 			print row
-			
-			
+
+parse_csv()		
